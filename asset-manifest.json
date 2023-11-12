@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AlmogHasson/Anime-Library/static/css/main.06d8fa0d.css",
+    "main.js": "/AlmogHasson/Anime-Library/static/js/main.6351eec9.js",
+    "index.html": "/AlmogHasson/Anime-Library/index.html",
+    "main.06d8fa0d.css.map": "/AlmogHasson/Anime-Library/static/css/main.06d8fa0d.css.map",
+    "main.6351eec9.js.map": "/AlmogHasson/Anime-Library/static/js/main.6351eec9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06d8fa0d.css",
+    "static/js/main.6351eec9.js"
+  ]
+}
